@@ -46,8 +46,9 @@ The dashboard answers critical business questions:
 ---
 
 ## 📊 Dashboard Snapshot
-<img width="1842" height="748" alt="C:\Users\mudhi\Downloads\DASHBOARD--IMG.png" />
-"C:\Users\mudhi\Downloads\DASHBOARD--IMG.png"
+<img width="1783" height="673" alt="DASHBOARD--IMG" src="https://github.com/user-attachments/assets/13f9db71-5320-4b2e-b49d-e44a317765e6" />
+
+
 
 ---
 
